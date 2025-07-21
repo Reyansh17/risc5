@@ -48,8 +48,8 @@ You can run your own RISC-V assembly programs by converting them to machine code
 ## 🏛️ CPU Architecture
 
 <details>
-<summary>Click to expand Block Diagram (Mermaid)</summary>
-![alt text](image.png)
+<summary>Click to expand Block Diagram</summary>
+!(image.png)
 </details>
 
 ---
