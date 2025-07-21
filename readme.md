@@ -49,7 +49,7 @@ You can run your own RISC-V assembly programs by converting them to machine code
 
 <details>
 <summary>Click to expand Block Diagram (Mermaid)</summary>
-![alt text](image.png)
+![alt text](/image.png)
 </details>
 
 ---
